@@ -1,0 +1,7 @@
+{
+  "name": "people",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
